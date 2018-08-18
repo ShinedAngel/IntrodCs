@@ -9,7 +9,7 @@ namespace HelloWorld
             Console.WriteLine("Qual o seu nome?");
             var name = Console.ReadLine();
             var date = DateTime.Now;
-            Console.WriteLine($"/nOlá, {name}, esse programa está rodando em {date:d} as {date:t}");
+            Console.WriteLine($"Olá, {name}, esse programa está rodando em {date:d} as {date:t}");
             Console.Write("Pressione qualquer tecla para sair...");
             Console.ReadKey(true);
         }
