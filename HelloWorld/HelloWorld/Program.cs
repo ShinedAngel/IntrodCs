@@ -8,9 +8,16 @@ namespace HelloWorld
         {
             Console.WriteLine("Qual o seu nome?");
             var name = Console.ReadLine();
+
+            Console.WriteLine("Quantos anos você tem?");
+            var age = Console.ReadLine();
+
+            Console.WriteLine($"Olá {name}, belo nome! Você tem {age} anos. Tenho um prazer enorme em conhecer você!");
+
             var date = DateTime.Now;
-            Console.WriteLine($"Olá, {name}, esse programa está rodando em {date:d} as {date:t}");
-            Console.Write("Pressione qualquer tecla para sair...");
+            Console.WriteLine($"Esse programa foi rodando em {date:d} as {date:t}");
+
+            Console.Write("Pressione qualquer tecla para fechar...");
             Console.ReadKey(true);
         }
     }
