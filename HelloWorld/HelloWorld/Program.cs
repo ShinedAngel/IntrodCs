@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Questão 02
+
+using System;
 
 namespace HelloWorld
 {
@@ -20,5 +22,9 @@ namespace HelloWorld
             Console.Write("Pressione qualquer tecla para fechar...");
             Console.ReadKey(true);
         }
+
+        // Questão 03
+        // Console.ReadKey() Retorna o valor da tecla pressionada
+        // Console.ReadLine() Retorna o valor da linha inteira
     }
 }
