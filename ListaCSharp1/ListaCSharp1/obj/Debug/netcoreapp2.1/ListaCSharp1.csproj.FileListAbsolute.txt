@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\obj\Debug\netcoreapp2.1\ListaCSharp1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\obj\Debug\netcoreapp2.1\ListaCSharp1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\obj\Debug\netcoreapp2.1\ListaCSharp1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\obj\Debug\netcoreapp2.1\ListaCSharp1.AssemblyInfo.cs
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\bin\Debug\netcoreapp2.1\ListaCSharp1.deps.json
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\bin\Debug\netcoreapp2.1\ListaCSharp1.runtimeconfig.json
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\bin\Debug\netcoreapp2.1\ListaCSharp1.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\bin\Debug\netcoreapp2.1\ListaCSharp1.dll
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\bin\Debug\netcoreapp2.1\ListaCSharp1.pdb
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\obj\Debug\netcoreapp2.1\ListaCSharp1.dll
+C:\Users\User\source\repos\ListaCSharp1\ListaCSharp1\obj\Debug\netcoreapp2.1\ListaCSharp1.pdb
